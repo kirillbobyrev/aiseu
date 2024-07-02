@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["BOARD_SIZE","BOARD_WIDTH","MAX_MOVES"],"enum":["Color","Direction","File","PieceKind","Promotion","Rank","Square"],"struct":["CastleRights","Move","Piece","SquareIterator"],"type":["MoveList"]};

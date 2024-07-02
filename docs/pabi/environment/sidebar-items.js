@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["GameResult"],"trait":["Action","Environment","Observation"]};

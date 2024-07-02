@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["BUILD_FEATURES"],"fn":["engine_version","print_binary_info","print_engine_info"],"mod":["build","chess","engine","environment","evaluation","mcts"]};

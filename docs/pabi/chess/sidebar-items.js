@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["attacks","bitboard","core","game","generated","position","zobrist"]};

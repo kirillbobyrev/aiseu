@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"pabi":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.79.0/core/ops/bit/trait.Shr.html\" title=\"trait core::ops::bit::Shr\">Shr</a>&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/1.79.0/std/primitive.u32.html\">u32</a>&gt; for <a class=\"struct\" href=\"pabi/chess/bitboard/struct.Bitboard.html\" title=\"struct pabi::chess::bitboard::Bitboard\">Bitboard</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

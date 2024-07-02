@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["generate_bishop_moves","generate_castle_moves","generate_king_moves","generate_knight_moves","generate_pawn_moves","generate_rook_moves","perft","validate"],"struct":["Position"]};
